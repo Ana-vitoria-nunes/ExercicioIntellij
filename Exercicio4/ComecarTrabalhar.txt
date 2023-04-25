@@ -1,0 +1,7 @@
+Passo 0: Levantar da cama
+Passo 1: Escovar os dentes
+Passo 2: Tomar cafe da manha
+Passo 3: Ligar o computador
+Passo 4: Colocar a senha
+Passo 5: Abrir plataforma de trabalho
+Passo 6: Começar a trabalhar
