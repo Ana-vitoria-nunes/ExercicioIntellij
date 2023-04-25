@@ -1,0 +1,18 @@
+Passo 0: ligue o forno
+Passo 1: Pegue a batedeira
+Passo 2: Pegue a massa do bolo de chocolate
+Passo 3: Pegue os ovos
+Passo 4: pegue o leite
+Passo 5: Pegue a manteiga
+Passo 6: pegue o fermento
+Passo 8: Coloque todos os ingredientes na batedeira
+Passo 9: coloque a batedeira para bater
+Passo 10: pegue uma forma de bolo
+Passo 11: Pegue o spray desmoldante
+Passo 12: jogue o spray desmoldante na forma de bolo
+Passo 13: Desligue a batedeira
+Passo 14: pega a massa da batedeira
+Passo 15: coloque a massa na forma de bolo
+Passo 16: abra o forno
+Passo 17: Coloque a forma de bolo lá dentro
+Passo 18: Feche o forno
