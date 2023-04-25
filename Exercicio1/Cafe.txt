@@ -1,0 +1,16 @@
+Passo 1: Pegar uma panela
+Passo 2: Colocar água na panela
+Passo 3: Ligar a chama do fogão
+Passo 4: Colocar a panela com água na chama do fogão
+Passo 5: Pegar o coador de café
+Passo 6: Pegar o pó de café
+Passo 8: Colocar o pó de café no coador
+Passo 9: Pegar garrafa de café
+Passo 10: Destampar a garrafa de café
+Passo 11: Coloque o coador na boca da garrafa
+Passo 12: Desligar a chama do fogão
+Passo 13: Pega a panela com água quente do fogão
+Passo 14: Jogar a água quente no coador de cafe
+Passo 15: tirar o coador da garrafa
+Passo 16: pegar a tampa da garrafa
+Passo 17: fechar a garrafa
