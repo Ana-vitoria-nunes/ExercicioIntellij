@@ -1,0 +1,10 @@
+Passo 1: Abre o ifood
+Passo 2: Pesquise por farmácias
+Passo 3: Escolha uma farmácia
+Passo 4: Clique para abrir
+Passo 5: selecione os remedios
+Passo 6: Coloque na sacola
+Passo 8: Abra a sacola para finalizar a compra
+Passo 9: Coloque o endereço para entrega
+Passo 10: Escolha a forma de pagamento
+Passo 11: Finalize sua compra
